@@ -1,4 +1,4 @@
-/*program to check if a number is even or odd */
+/*program to check if a number is even or odd  */
 
 import java.util.Scanner;
 
